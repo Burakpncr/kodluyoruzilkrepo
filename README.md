@@ -7,6 +7,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 > (https://github.com/Burakpncr/kodluyoruzilkrepo.git)
 
+![Octocad](https://raw.githubusercontent.com/Burakpncr/kodluyoruzilkrepo/main/images/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+
 # Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code Programında açınız 
